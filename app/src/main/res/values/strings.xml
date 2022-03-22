@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tati</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">QR</string>
+    <string name="title_notifications">Map</string>
+    <string name="qr_code">QR CODE</string>
+    <string name="coloca_el_c_digo_qr_frente_al_escaner_en_la_m_quina">Coloca el código QR frente al escaner en la máquina</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
